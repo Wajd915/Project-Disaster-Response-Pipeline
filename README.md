@@ -8,17 +8,17 @@ The project also includes an interactive web app where users can input new messa
 ## Repository Contents
 The repository contains the following key components:
 
-Data:
+1. Data:
 
 disaster_messages.csv: Contains messages collected from real-life disaster events.
 disaster_categories.csv: Includes labels for each message indicating the relevant categories.
-ETL Pipeline:
+2. ETL Pipeline:
 
-process_data.py: Extracts, transforms, and loads the data into a SQLite database. The script cleans the data by removing duplicates and unnecessary fields.
+3. process_data.py: Extracts, transforms, and loads the data into a SQLite database. The script cleans the data by removing duplicates and unnecessary fields.
 Machine Learning Pipeline:
 
-train_classifier.py: Trains and evaluates a multi-output classification model using the cleaned dataset.
-Web App:
+4. train_classifier.py: Trains and evaluates a multi-output classification model using the cleaned dataset.
+5. Web App:
 
 app folder: Contains the Flask web app's front-end and back-end code.
 Users can input messages for real-time classification and view various data visualizations.
