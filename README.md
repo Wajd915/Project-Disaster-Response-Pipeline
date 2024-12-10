@@ -24,10 +24,13 @@ The repository contains the following key components:
 2. Web App:
 
 app folder: Contains the Flask web app's front-end and back-end code.
+
 Users can input messages for real-time classification and view various data visualizations.
+
 ## Jupyter Notebooks:
 
 **Exploratory Data Analysis:** Initial analysis and visualization of the dataset.
+
 **Supporting Files:**
 
 1. README.md: Documentation of the project.
