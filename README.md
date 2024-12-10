@@ -11,6 +11,7 @@ The repository contains the following key components:
 1. Data:
 
 **disaster_messages.csv:** Contains messages collected from real-life disaster events.
+
 **disaster_categories.csv:** Includes labels for each message indicating the relevant categories.
 
 2. ETL Pipeline:
