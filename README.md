@@ -81,4 +81,5 @@ Launch the web app:
 The web app includes:
 
 **Message Classification:** Enter new messages and receive predicted categories.
+
 **Interactive Charts:** Visualize the distribution of categories and data trends.
